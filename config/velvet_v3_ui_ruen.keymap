@@ -50,6 +50,11 @@
             key-positions = <3 4>;
             layers = <0>;
         };
+
+        studio_unlock {
+            bindings = <&none>;
+            key-positions = <2 9>;
+        };
     };
 
     macros {
